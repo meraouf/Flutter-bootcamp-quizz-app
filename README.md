@@ -1,16 +1,9 @@
 # quizzler
+Created by: Raouf meghaoui
 
-A new Flutter project.
+### screenshot
+![image](https://user-images.githubusercontent.com/72553155/200581034-1ec704bd-270c-472d-8049-76fd3ff0d14c.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+A simple quiz app with showing the status of user progress in bottom of screen. 
